@@ -1,0 +1,8 @@
+## Author: Snail
+## SavedVariables: Whispers
+## Interface: 60200
+## Notes: Missed whispers are a thing of the past!
+## Title: WhisperCache
+## Version: 1.0.0
+
+WhisperCache.lua
