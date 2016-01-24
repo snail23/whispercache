@@ -14,7 +14,7 @@ Download
 
 You can download WhisperCache at any of these locations:
 
-WoW Interface: http://wowinterface.com/downloads/info20900-SnailUI
+WoW Interface: http://wowinterface.com/downloads/info23775-WhisperCache.html
 Curse: http://curse.com/addons/wow/whispercache
 
 You can also stay up to date with the cutting edge versions of WhisperCache by visiting its GitHub repository here: https://github.com/snail23/whispercache (The files here can change many times a day so it's not recommended to use this version of WhisperCache unless you know what you are doing)
