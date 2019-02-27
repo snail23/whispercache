@@ -1,7 +1,0 @@
-WhisperCache
-Written by Snail
-
-------------------------------------------------------------------------------
-
-Version 1.0.0
-- Initial release
