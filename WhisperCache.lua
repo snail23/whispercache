@@ -1,5 +1,11 @@
 --
--- Copyright (C) 2016 Snail <https://github.com/snail23/whispercache/>
+-- ┌───────┐                                   ┬
+-- │┌─┐    │ Snailsoft                         │  WhisperCache
+-- │└─┐ɴᴀɪʟ│ https://snail.software            │  https://snail.software
+-- │└─┘ˢᵒᶠᵗ│ https://github.com/snailsoftware  │  https://github.com/snailsoftware/whispercache
+-- └───────┘                                   ┴
+--
+-- Copyright (C) 2016-2019 Snailsoft <https://snail.software/>
 --
 -- This program is free software; you can redistribute it and/or modify it
 -- under the terms of the GNU General Public License as published by the
