@@ -16,6 +16,8 @@ Simply type /wc in game to view your missed whispers at any given time.
 You can download WhisperCache at any of these locations:
 
 WoW Interface: [http://wowinterface.com/downloads/info23775-WhisperCache.html](http://wowinterface.com/downloads/info23775-WhisperCache.html)
+
 Curse: [http://curse.com/addons/wow/whispercache](http://curse.com/addons/wow/whispercache)
 
-You can also stay up to date with the cutting edge versions of WhisperCache by visiting its GitHub repository here: [https://github.com/snailsoftware/whispercache](https://github.com/snailsoftware/whispercache) (The files here can change many times a day so it's not recommended to use this version of WhisperCache unless you know what you are doing)
+You can also stay up to date with the cutting edge versions of WhisperCache by visiting its GitHub repository here: [https://github.com/snailsoftware/whispercache](https://github.com/snailsoftware/whispercache)
+The files here can change many times a day so it's not recommended to use this version of WhisperCache unless you know what you are doing
