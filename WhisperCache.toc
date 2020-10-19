@@ -1,0 +1,11 @@
+# Part of WhisperCache
+# https://github.com/snail23/WhisperCache
+
+## Author: Snail
+## SavedVariables: Whispers
+## Interface: 90001
+## Notes: Missed whispers are a thing of the past!
+## Title: WhisperCache
+## Version: 1.0.2
+
+WhisperCache.lua
